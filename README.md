@@ -1,6 +1,8 @@
-# flutter_fcm
+# Flutter FCM
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/30998350/58003720-ff98da00-7afe-11e9-9bce-fda9fe18332a.png" height= "450" width="250">
+
+To know more how to implement cloud messaging refer - https://pub.dev/packages/firebase_messaging#-readme-tab-
 
 ## Getting Started
 
