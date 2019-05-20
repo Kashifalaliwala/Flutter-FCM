@@ -42,7 +42,7 @@ packages:
       name: firebase_messaging
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.0.0+4"
+    version: "5.0.1+1"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -54,7 +54,7 @@ packages:
       name: flutter_local_notifications
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.7.0"
+    version: "0.7.1+1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -66,7 +66,7 @@ packages:
       name: fluttertoast
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.4"
+    version: "3.1.0"
   matcher:
     dependency: transitive
     description:
