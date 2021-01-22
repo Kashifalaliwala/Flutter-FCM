@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
     var initializationSettingsAndroid = new AndroidInitializationSettings('@mipmap/ic_launcher');
 
     var initializationSettingsIOS = new IOSInitializationSettings(
-        onDidReceiveLocalNotification: onDidRecieveLocalNotification);
+        onDidReceiveLocalNotification: onDidReceiveLocalNotification);
 
     var initializationSettings = new InitializationSettings(
         initializationSettingsAndroid, initializationSettingsIOS);
@@ -125,7 +125,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );*/
   }
 
-  Future onDidRecieveLocalNotification(
+  Future onDidReceiveLocalNotification(
       int id, String title, String body, String payload) async {
     // display a dialog with the notification details, tap ok to go to another page
     showDialog(
